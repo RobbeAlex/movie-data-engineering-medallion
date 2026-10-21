@@ -1,0 +1,12 @@
+{
+    "table_name": "serving_fact_movies",
+    "structure": "Star Schema",
+    "columns": {
+        "budget": "Presupuesto de la película (USD)",
+        "revenue": "Ingresos totales (USD)",
+        "runtime": "Duración en minutos",
+        "vote_average": "Calificación promedio (Variable Objetivo)",
+        "popularity": "Índice de popularidad en la plataforma"
+    },
+    "last_update": "2026-05-12 05:26:06"
+}

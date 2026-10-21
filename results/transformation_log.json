@@ -1,0 +1,9 @@
+{
+    "etapa": "Silver - Movies",
+    "registros_totales": 100000,
+    "acciones": [
+        "Imputación de nulos",
+        "Normalización de cabeceras"
+    ],
+    "fecha": "2026-05-12 05:25:50"
+}
